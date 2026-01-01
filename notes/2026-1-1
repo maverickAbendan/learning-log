@@ -1,1 +1,9 @@
+**Large Language Models Are General - But Not _That_ General** - from Andrew's Letters, The Batch
 
+AGI (Artificial General Intelligence) - a future where AI can understand, learn, and apply intellectual tasks like a human can.
+
+LLMs are trained on the public web, but still struggle to write in a certain style or use websites reliably.
+LLMs progress becomes harder when focusing on a specific topic/field. Data being fed must be collated first by researchers, and preparing data (by cleaning low-quality text, duplicates, etc.).
+Humans can generalize to a wider range of topics than a frontier model. 
+
+LLMs are general, but they require a long and systematic process to determine the correct data to be trained on. Hence, they are not that general, especially when compared to the human brain. 
